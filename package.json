@@ -1,7 +1,7 @@
 {
-  "name": "catBot",
+  "name": "devil bot",
   "version": "2.0.0",
-  "description": "catbot whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "description": "Devilbot whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./catboz/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -16,7 +16,7 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "basilser / @karthik-terror-boy",
+  "developer": "devil ser / @ps_yc_ho__de_vi_l",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Itsmebasil8/catboz/issues"
